@@ -4,17 +4,33 @@ Documentação da loja virtual desenvolvida como Trabalho de Conclusão de Curso
 
 **Documento completo: [Documentacao_Loja_Virtual_TCC.pdf](documentacao/Documentacao_Loja_Virtual_TCC.pdf)**
 
+**Código-fonte dos principais módulos: [Fontes_Loja_Virtual_TCC.pdf](fontes/Fontes_Loja_Virtual_TCC.pdf)**
+
 ## Conteúdo do documento
 
 1. Introdução
 2. Atores
+
+**Levantamento de requisitos**
+
 3. Requisitos funcionais
 4. Requisitos não funcionais
-5. Casos de uso
-6. Diagramas de casos de uso
-7. Detalhamento dos casos de uso
-8. Modelo entidade-relacionamento
-9. Dicionário de dados
-10. Telas
+5. Diagrama de casos de uso
+6. Detalhamento dos casos de uso
 
-O código-fonte fica em um repositório privado, disponível sob solicitação.
+**Projeto**
+
+7. Modelo entidade-relacionamento (DER/MER)
+8. Dicionário de dados
+9. Tecnologias
+10. Algoritmos
+11. Fluxogramas
+
+**Desenvolvimento**
+
+12. Fontes (detalhadas em [fontes/Fontes_Loja_Virtual_TCC.pdf](fontes/Fontes_Loja_Virtual_TCC.pdf))
+13. Telas
+
+**Testes**
+
+14. Cenários de teste
